@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">DzikirApp </string>
+
+    <string name="doatelat">\n \nبِسْمِ اللهِ فِىِ أَوَّلِهِ وَآخِرِه
+    \n \nBismillaahi fii awwalihi wa aakhirihi \n \n Artinya: "Dengan menyebut nama Allah pada awal dan akhirnya"ِ</string>
+
+    <string name="doamasuk">اَللّٰهُمَّ اِنّىْ اَعُوْذُبِكَ مِنَ الْخُبُثِ وَالْخَبَآئِثn \n\ِ
+    \n \n Alloohumma Innii auudzubika minal khubutsi wal khoaaitsi \n \n Artinya: "Ya Allah, aku berlindung pada-Mu dari godaan syetan  laki-laki dan setan perempuan"</string>
+
+    <string name="doakeluar">\n \nغُفْرَانَكَ اَلْحَمْدُ ِللهِ الَّذِىْ اَذْهَبَ عَنّى اْلاَذَى وَعَافَانِىْ
+    \n \n GHUFROONAKA ALHAMDU LILLAAHIL LADZII ADZHABA ANNIL ADZAA WA AAFAANII \n \n Artinya: Dengan mengharap ampunanMu, segala puji milik Allah yang telah menghilangkan kotoran dari badanku dan yang telah menyejahterakan.</string>
+
+    <string name="doapashujan">\n \n  اَللهُمَّ صَيّبًا نَافِعًا
+    \n \n ALLOOHUMMA SHOYYIBAN NAAFIAN \n \n Artinya: Ya Allah semoga (hujan yang Engkau turunkan ini) lebat dan membawa manfaat.</string>
+
+    <string name="doaselese">\n \nمُطِرْنَا بِفَضْلِ اللهِ وَرَحْمَتِهِ
+    \n \nMUTHIRNAA BIFADLLILLAAHI WA ROHMATIHI \n \nArtinya: Kita diberi hujan karena keutamaan dan rahmatNya.</string>
+
+    <string name="doasakit">\n \nاَسْأَلُ اللهَ الْعَظِيْمَ رَبَّ الْعَرْشِ الْعَظِيْمِ اَنْ يُعَافِيَكَ وَيُشْفِيَكَ
+    \n \n AS-ALULLOOHAL ADZIIMA ROBBALARSYIL ADZIIMI AYYUAAFIYAKA WA YUSYFIYAKA \n \n Artinya: Aku memohon kepada Allah yanag Maha Agung Tuhan Arsy yang agung semoga memberi kesejahteraan kepada engkau dan menyembuhkan engkau (orang yang sakit).</string>
+
+    <string name="doabersin">\n \nاَلْحَمْدُ ِللهِ
+    \n \n AL-HAMDU LILLAAHI \n \n Artinya :Segala Puji Bagi Allah \n \n
+    يَرْحَمُكَ اللهُ
+    \n \nYARHAMUKALLOOHU \n \n  Artinya : Semoga Allah memberi rahmat kepadamu \n \n
+    يَهْدِيْكُمُ اللهُ وَيَصْلِحُ بَالَكُمً
+    \n \n YAHDIIKUMUL LOOHU WA YASLIHU BALAKUM \n \nArtinya :Semoga Allah memberi petunjuk kepadamu dan membaguskan keadaanmu</string>
+
+    <string name="doaselamat">\n \nرَبَّنَا أَتِنَا فِى الدُّنْيَا حَسَنَةً وَفِي اْلأَخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ
+    \n \nRABBANAA AATINAA FIDDUNNYAA HASANAH, WA FIL AAKHIRATI HASANAH, WAQINAA ‘ADZAA BAN NAAR. \n \n Artinya :Ya Tuhan kami, berilah kami kebaikan hidup di dunia dan kebaikan hidup di akhirat, dan jagalah kami dari siksa api neraka.</string>
+
+    <string name="doabercermin">اَلْحَمْدُ ِللهِ كَمَا حَسَّنْتَ خَلْقِىْ  فَحَسِّـنْ خُلُقِى n \n\ْ
+    \n \n Alhamdulillaahi kamaa hassanta kholqii fahassin khuluqii \n \nArtinya: "Segala puji bagi Allah, baguskanlah budi pekertiku sebagaimana Engkau telah membaguskan rupa wajahku"</string>
+
+    <string name="doasafar">\n \nبِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ لاَحَوْلَ وَلاَقُوَّةَ اِلاَّ بِالله
+    \n \nBismillaahi tawakkaltu alalloohi laa hawlaa walaa quwwata illaa bilaahi \n \nArtinya: "Dengan menyebut nama Allah aku bertawakal kepada Allah, tiada daya kekuatan melainkan dengan pertologan Allah."</string>
+</resources>
